@@ -11,3 +11,5 @@ este es un taller a realizar en la clase de desarrollo:
 - Crear otra rama.
 - Subir la rama al repositorio remoto.
 - Crear otro repositorio remoto.
+
+# Esto se ha subido desde la rama "rama2"
